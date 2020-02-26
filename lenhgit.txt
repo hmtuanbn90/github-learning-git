@@ -6,3 +6,4 @@ git commit -m "..." : ghi chú nội dung đã thêm sửa
 git push : đồng bộ từ máy lên remote repositori
 git status : check trạng thái
 git log : kiểm tra xem ai , thời gian đã thêm (sửa) commit
+thử kiểm tra conflict
