@@ -3,3 +3,8 @@ test lại conflict
 git add testconflict.txt
 git commit -m "test1"
 git push
+báo lỗi
+đã thực hiện git pull từ remote repositori và lưu thay đổi mới
+tiếp tục thực hiện đồng bộ lên remote repositori
+
+
