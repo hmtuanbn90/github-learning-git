@@ -1,0 +1,3 @@
+git init : master
+git clone: lấy từ trên mạng về
+git pull: đồng bộ từ trên mạng về máy
