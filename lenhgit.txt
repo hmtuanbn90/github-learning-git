@@ -1,3 +1,8 @@
 git init : master
 git clone: lấy từ trên mạng về
-git pull: đồng bộ từ trên mạng về máy
+git pull: đồng bộ từ trên remote repositori về máy
+git add : thêm các commit
+git commit -m "..." : ghi chú nội dung đã thêm sửa
+git push : đồng bộ từ máy lên remote repositori
+git status : check trạng thái
+git log : kiểm tra xem ai , thời gian đã thêm (sửa) commit
