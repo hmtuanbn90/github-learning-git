@@ -9,6 +9,7 @@ git log : kiểm tra xem ai , thời gian đã thêm (sửa) commit
 git branch : chia nhánh
 git checkout : di chuyển tới nhánh muốn đến
 git merge: nhập nhánh
+git.....
 <<<<<<< HEAD
 test thất bại. thay đổi file khác để test
 =======
