@@ -1,1 +1,2 @@
 test lại conflict 
+nhập dữ liệu mà trong locar repositori chưa có. lưu thay đổi sau đó thực hiện thay đổi trong text, git add và git push
