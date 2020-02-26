@@ -1,1 +1,5 @@
 test lại conflict 
+đã lưu thay đổi trên remote repositori. nhưng chưa git pull. bây giờ thực hiện 
+git add testconflict.txt
+git commit -m "test1"
+git push
