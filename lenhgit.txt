@@ -11,3 +11,4 @@ git checkout : di chuyển tới nhánh muốn đến
 git merge: nhập nhánh
 git.....
 git push -u origin master dung de push len remote va de gian luoc dia chi se push len sau nay chi can git push 
+git config --global push.default matching
