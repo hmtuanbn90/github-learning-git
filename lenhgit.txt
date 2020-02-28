@@ -10,7 +10,4 @@ git branch : chia nhánh
 git checkout : di chuyển tới nhánh muốn đến
 git merge: nhập nhánh
 git.....
-<<<<<<< HEAD
-test thất bại. thay đổi file khác để test
-=======
->>>>>>> 2d38849f3516621c09b4d259f433a76502242096
+
