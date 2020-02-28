@@ -7,4 +7,4 @@ báo lỗi
 đã thực hiện git pull từ remote repositori và lưu thay đổi mới
 tiếp tục thực hiện đồng bộ lên remote repositori
 
-asdas
+
